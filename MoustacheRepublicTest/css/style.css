@@ -1,0 +1,56 @@
+img{
+    width: 60%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn:hover{
+    
+    background-color: #222222;
+    color: #ffffff;;
+}
+
+.btn{
+    border-color: #222222;
+}
+
+header{
+    background-color: #F6F6F7;
+    
+}
+
+a{
+    color: #888888;
+}
+
+p{
+    color: #888888;
+    font-size: 75%;
+}
+
+.required{
+    color:#C90000;
+}
+
+hr{
+    color: #CCCCCC;
+}
+
+.btnSize{
+    color: #CCCCCC;
+    border-color: #CCCCCC;
+}
+
+.remove{
+    font-size: 10%;
+}
+
+.imgdrop{
+    width: 80%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
